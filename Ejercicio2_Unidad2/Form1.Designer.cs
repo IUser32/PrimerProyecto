@@ -41,7 +41,6 @@
             btnCambiar.TabIndex = 0;
             btnCambiar.Text = "Cambiar";
             btnCambiar.UseVisualStyleBackColor = true;
-            btnCambiar.Click += btnCambiar_Click;
             // 
             // lblTextoACambiar
             // 

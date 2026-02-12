@@ -1,4 +1,4 @@
-namespace Ejercicio2_Unidad2
+namespace CalculadoraNomina
 {
     public partial class Form1 : Form
     {
@@ -6,7 +6,5 @@ namespace Ejercicio2_Unidad2
         {
             InitializeComponent();
         }
-
-       
     }
 }
