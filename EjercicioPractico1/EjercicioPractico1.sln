@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2_Unidad2", "..\Ej
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba2", "Prueba2\Prueba2.csproj", "{3FFC8D71-F40A-46F6-A809-F96F9D9423FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraNomina", "..\CalculadoraNomina\CalculadoraNomina.csproj", "{850DEBEF-EA90-47E6-963B-4C6A164A942C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3FFC8D71-F40A-46F6-A809-F96F9D9423FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FFC8D71-F40A-46F6-A809-F96F9D9423FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FFC8D71-F40A-46F6-A809-F96F9D9423FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850DEBEF-EA90-47E6-963B-4C6A164A942C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850DEBEF-EA90-47E6-963B-4C6A164A942C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850DEBEF-EA90-47E6-963B-4C6A164A942C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850DEBEF-EA90-47E6-963B-4C6A164A942C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
